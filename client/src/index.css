@@ -1,0 +1,15 @@
+.input {
+  height: 32px;
+  display: block;
+  margin: 10px 0px;
+  width: 300px;
+}
+.error {
+  color: red;
+}
+body {
+  font-family: monospace;
+}
+.button {
+  height: 32px;
+}
